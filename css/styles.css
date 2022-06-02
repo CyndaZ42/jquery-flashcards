@@ -1,0 +1,21 @@
+#hidden {
+  display: none;
+}
+
+.clickable {
+  text-align: center;
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.col-3 {
+  border: solid;
+  border-width: 2px;
+  border-radius: 0.3rem;
+  color: aliceblue;
+  background-color: #30363d;
+}
